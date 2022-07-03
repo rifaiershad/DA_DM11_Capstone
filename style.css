@@ -1,0 +1,21 @@
+.highlight {
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .blue {
+    background-color: #3949AB
+  }
+  .red {
+    background-color: #9FA8DA;
+  }
+  .yel {
+    background-color: #A1C2FA;
+  }
+  .kol {
+    background-color: #757575;
+  }
+  .lol {
+    background-color: #FBC025;
+  }
