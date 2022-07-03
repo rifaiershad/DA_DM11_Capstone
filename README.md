@@ -5,4 +5,4 @@ Requirements:
 Python 3.9.4 or up
 Streamlit 1.10.0
 
-commaand: streamlit run app.py
+command: streamlit run app.py
